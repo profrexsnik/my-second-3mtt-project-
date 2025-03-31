@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body {
+background-image: none;
+
+}
+
+.hover {
+    color: red;
+    text-decoration: none;
+}
+
+.intro {
+    padding-left: 10px;
+}
+
+input{
+    color: rgb(47, 0, 255);
+}
+h1{
+    color: rgb(255, 0, 0);
+    padding: 10px 10px 20px 30px;
+    text-align: center;
+}
+
+.comp-1 {
+    width: 160px;
+    height: 160px;
+    color: red;
+    padding-left: 10px;
+}
+
+h3 { 
+    color: blue;
+    padding: 10px 5px 5px 10px;
+    
+}
+
+.delly {
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 38, 255);
+    padding-left: 225px;
+    padding-right: 900px;
+    text-decoration: solid;
+}
+.dell {
+width: 160px;
+height: 155px;
+padding-left: 10px;
+}
+
+.hp {
+padding-bottom: 100%;
+padding-left: 10px;
+text-decoration: none;
+}
+
+.hp a {
+    text-decoration: none;
+}
+
+.comp3 {
+    width: 160px;
+    height: 155px;
+    padding-left: 10px;
+    
+}
+.comp4 {
+    width: 160px;
+    height: 155px;
+    padding-left: 10px;
+}
+
+.des2 {
+padding-left: 100px;
+}
+
+footer {
+    padding-left: 20px;
+    background-color: darkgreen;
+    text-decoration-color: white;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.p1 {
+    color: blue;
+    font-size: large;
+}
+.socialicons {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin: auto;
+    padding: 0;
+    border-radius: 5px;
+    border: 0cap;
+}
+
+.label {
+    margin: auto;
+    padding: 0;
+    border-radius: 90px;
+    border: 0cap;
+}
